@@ -8,8 +8,7 @@
     "stock": 0,
     "price": 145,
     "originalPrice": null,
-    "buttonText": "Remove from Cart",
-    "buttonDisabled": false
+    "date": "2024-04-15T00:00:00Z"
   },
   {
     "id": 2,
@@ -20,8 +19,7 @@
     "stock": 320,
     "price": 180,
     "originalPrice": null,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-06-28T00:00:00Z"
   },
   {
     "id": 3,
@@ -32,8 +30,7 @@
     "stock": 420,
     "price": 120,
     "originalPrice": 160,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": true
+    "date": "2024-03-03T00:00:00Z"
   },
   {
     "id": 4,
@@ -44,8 +41,7 @@
     "stock": 20,
     "price": 240,
     "originalPrice": 260,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-05-25T00:00:00Z"
   },
   {
     "id": 5,
@@ -56,8 +52,7 @@
     "stock": 20,
     "price": 180,
     "originalPrice": null,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-07-10T00:00:00Z"
   },
   {
     "id": 6,
@@ -68,8 +63,7 @@
     "stock": 20,
     "price": 130,
     "originalPrice": 160,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-02-19T00:00:00Z"
   },
   {
     "id": 7,
@@ -80,8 +74,7 @@
     "stock": 20,
     "price": 212,
     "originalPrice": 232,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-06-12T00:00:00Z"
   },
   {
     "id": 8,
@@ -92,8 +85,7 @@
     "stock": 20,
     "price": 145,
     "originalPrice": null,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-03-18T00:00:00Z"
   },
   {
     "id": 9,
@@ -104,7 +96,6 @@
     "stock": 10,
     "price": 80,
     "originalPrice": null,
-    "buttonText": "Add to Cart",
-    "buttonDisabled": false
+    "date": "2024-07-01T00:00:00Z"
   }
 ]
